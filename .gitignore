@@ -1,0 +1,23 @@
+# Banco de dados
+*.db
+*.db.bak
+*.sqlite
+
+# PyInstaller
+dist/
+build/
+*.spec
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Scripts utilitários
+popular_demo.py
+
+# Sistema
+.DS_Store
+Thumbs.db
+desktop.ini
